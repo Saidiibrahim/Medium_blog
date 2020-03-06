@@ -1,2 +1,2 @@
 # MyProjects
-Code for used in my data science projects
+Code used in my data science projects
