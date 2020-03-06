@@ -1,2 +1,2 @@
-# Finance
-Code for DIY investing in the stock market
+# MyProjects
+Code for used in my data science projects
